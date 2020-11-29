@@ -1,0 +1,4 @@
+/Users/wuxiaogang/clion/redis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/wuxiaogang/clion/redis/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wuxiaogang/clion/redis/cmake-build-debug/CMakeFiles/main.dir
+/Users/wuxiaogang/clion/redis/cmake-build-debug/CMakeFiles/redis.dir
