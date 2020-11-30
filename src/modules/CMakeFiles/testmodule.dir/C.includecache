@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/handty/clion/redis/src/modules/testmodule.c
+../redismodule.h
+/Users/handty/clion/redis/src/redismodule.h
+string.h
+-
+
+/Users/handty/clion/redis/src/redismodule.h
+sys/types.h
+-
+stdint.h
+-
+stdio.h
+-
+
